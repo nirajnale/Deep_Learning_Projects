@@ -7,7 +7,7 @@
 ![Keras](https://img.shields.io/badge/Keras-Neural%20Networks-red)
 ![Computer Vision](https://img.shields.io/badge/Computer-Vision-success)
 ![NLP](https://img.shields.io/badge/NLP-Sequence%20Models-blueviolet)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ---
 
